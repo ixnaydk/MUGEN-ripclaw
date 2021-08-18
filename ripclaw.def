@@ -1,0 +1,28 @@
+[Info]
+name ="Ripclaw"
+displayname ="Ripclaw"
+versiondate =06/02/2011
+mugenversion =11,01,2001
+author ="Ixnaydk & Blitzwing"
+pal.defaults =12,8,10,9,1,7,3,6
+
+[Files]
+sprite=ripclaw.sff
+sound=ripclaw.snd
+anim=ripclaw.air
+cmd=ripclaw.cmd
+cns=ripclaw.cns
+st=ripclaw.cns
+stcommon =common1.cns
+pal1=ripclaw001.act
+pal2=ripclaw002.act
+pal3=ripclaw003.act
+pal4=ripclaw004.act
+pal5=ripclaw005.act
+pal6=ripclaw006.act
+pal7=ripclaw007.act
+pal8=ripclaw008.act
+pal9=ripclaw009.act
+pal10=ripclaw010.act
+pal11=ripclaw011.act
+pal12=ripclaw012.act
